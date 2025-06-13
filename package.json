@@ -1,0 +1,20 @@
+{
+  "name": "penn-eleventy-tutorial",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+      "watch:sass": "sass src/static/scss:public/static/css --watch",
+      "build:sass": "sass src/static/scss:public/static/css",
+      "watch:eleventy": "eleventy --serve",
+      "build:eleventy": "ELEVENTY_ENV=development eleventy",
+      "start": "npm run watch:eleventy & npm run watch:sass",
+      "build": "npm run build:eleventy & npm run build:sass"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@11ty/eleventy": "^3.1.1"
+  }
+}
