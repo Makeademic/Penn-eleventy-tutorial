@@ -1,12 +1,12 @@
 This lives in the main directory - don't push to the site :)
 
-# 6/13/2025
+# 6/23/2025
 
 ## What was done
-Initialized repo and figured out pair-programming in Codespaces kind of. Created a tutorial doc draft
+Decided on branch/lesson structure. Created eleventy-01 branch. Removed CSS stuff to be added at a later point in the lessons
 
 ## Any issues to solve next time
-Input/output folders - we only want stuff in "src" to build
+
 
 ## To do
-Finish tutorial!
+eleventy-02 branch with making pages using Markdown and basic HTML
