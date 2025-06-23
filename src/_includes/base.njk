@@ -3,7 +3,8 @@
   <head>
     <meta charset="utf-8" />
     <title>{{ title }}</title>
-  </head>
+    <link rel="stylesheet" type="text/css" href="{{ 'static/css/main.css' | url }}" media="screen" />
+</head>
   <body>
     {% block content %} {{ content | safe }} {% endblock %}
   </body>

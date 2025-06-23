@@ -13,12 +13,12 @@
     "build:sass:prod": "sass src/static/scss:public/static/css --style compressed",
     "build:eleventy:prod": "ELEVENTY_ENV=production eleventy",
     "build:prod": "npm run build:eleventy:prod & npm run build:sass:prod"
-
   },
   "keywords": [],
   "author": "Cynthia Heider and Emily Brooks",
   "license": "ISC",
   "dependencies": {
-    "@11ty/eleventy": "^3.1.1"
+    "@11ty/eleventy": "3.1.1",
+    "sass": "1.89.2"
   }
 }
