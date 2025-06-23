@@ -7,4 +7,4 @@ title: 'Penn Eleventy Tutorial'
 
 This is an introduction to Eleventy using GitHub Codespaces
 
-We will want to include tutorials on how to create pages, style them, etc.
+We will learn later how to create pages, style them, etc.
