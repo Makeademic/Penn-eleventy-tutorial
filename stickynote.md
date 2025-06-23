@@ -1,3 +1,5 @@
+This lives in the main directory - don't push to the site :)
+
 # 6/13/2025
 
 ## What was done
