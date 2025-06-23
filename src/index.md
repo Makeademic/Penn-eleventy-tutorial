@@ -1,7 +1,7 @@
 ---
 layout: 'base.njk'
 permalink: /
-title: 'Index'
+title: 'Penn Eleventy Tutorial'
 ---
 # Eleventy Tutorial
 
