@@ -1,12 +1,12 @@
 This lives in the main directory - don't push to the site :)
 
-# 6/13/2025
+# 7/31/2025
 
 ## What was done
-Initialized repo and figured out pair-programming in Codespaces kind of. Created a tutorial doc draft
+Reimagining branch structure to include start and end branches for lessons. Created changes in the index.md file to show formatting in Markdown and HTML.
 
 ## Any issues to solve next time
-Input/output folders - we only want stuff in "src" to build
+Need to edit eleventy-02a to remove underline and add ordered/unordered lists instructions
 
 ## To do
-Finish tutorial!
+Finish eleventy-02 (add homework pages) and figure out/start eleventy-03 lesson
